@@ -64,3 +64,12 @@ Play another round? (yes/no): yes
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## Snake Water Gun Game 🎮
+
+This is a simple Python project to play Snake-Water-Gun game.
+
+---
+
+👉 This line is added in test-pr branch for Pull Request achievement unlock.
+
