@@ -71,5 +71,3 @@ This is a simple Python project to play Snake-Water-Gun game.
 
 ---
 
-👉 This line is added in test-pr branch for Pull Request achievement unlock.
-
