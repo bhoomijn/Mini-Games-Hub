@@ -9,6 +9,7 @@ A Python implementation of the classic Snake-Water-Gun game with multiple rounds
 
 ## 📝 Game Rules
 
+
 - 🐍 **Snake** drinks Water → Snake wins
 - 💧 **Water** drowns Gun → Water wins  
 - 🔫 **Gun** kills Snake → Gun wins
@@ -43,6 +44,7 @@ python3 snake_water_gun.py
 
 ## 📊 Example Gameplay
 
+
 ```
 Round 1: Enter your choice (snake, water, gun): snake
 Computer chose: water
@@ -62,6 +64,7 @@ Play another round? (yes/no): yes
 ---
 
 ## 📜 License
+
 
 This project is licensed under the MIT License.
 
